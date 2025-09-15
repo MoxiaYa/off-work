@@ -1,0 +1,11 @@
+{
+    "version": "v0.1.0",
+    "notes": "First Version 0.1.0",
+    "pub_date": "2025-09-15T09:39:57Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "",
+            "url": ""
+        }
+    }
+}
