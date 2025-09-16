@@ -1,11 +1,11 @@
 {
     "version": "v0.1.0",
     "notes": "First Version 0.1.0",
-    "pub_date": "2025-09-15T09:39:57Z",
+    "pub_date": "2025-09-16T23:49:57Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "",
-            "url": ""
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVndRWGU4SnB1TkgzbHA3bzE5Wld4aDhYcWE0OUVkOEg2QVZPUmx3cVpRU29xMXVjUXdOaE4xbVNvc2dGQXVrR1FYcE41UDNMbFQ1em90ay9XV2RHVXFkNG5IVGIwWHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MDM2NDcwCWZpbGU6b2ZmLXdvcmtfMC4xLjBfeDY0X3poLUNOLm1zaQpGOE5PcDQ1VTFncVF0VFJXY3J2SWp4R0YrdWNySXJ3ajZiUFFucHlGNmhyeHhURTY5MTdiSGRwQXIxUVJLOTgwRzByeG9vd0dzUGtiNlg3aDVwSDFDUT09Cg==",
+            "url": "https://github.com/MoxiaYa/off-work/releases/download/v0.1.0/off-work_0.1.0_x64_zh-CN.msi"
         }
     }
 }
